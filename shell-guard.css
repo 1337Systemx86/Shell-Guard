@@ -1,0 +1,40 @@
+#cf-content {
+  display: none!important
+}
+
+body {
+  background: #101010;
+  font-size: 14px;
+  color: #FFF;
+  text-align: center;
+  padding-top: 2%;
+  margin: auto;
+  font-family: Helvetica, Arial, sans-serif;
+  overflow: hidden
+}
+
+.lmaostress {
+  margin-top: 10%;
+}
+
+i {
+  font-style: normal;
+  color: #14c9c9
+}
+
+h1,
+h2 {
+  font-weight: 400
+}
+
+h1 {
+  margin: auto;
+  max-width: 417px;
+  border-bottom: 1px dashed #fff;
+  font-size: 64px
+    
+}
+
+h2 {
+  font-size: 24px
+}
